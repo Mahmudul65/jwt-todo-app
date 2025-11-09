@@ -51,7 +51,7 @@ Users can **signup, login, manage their own todos**, and **logout**. All operati
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Mahmudul65/node-todo-app.git
+git clone https://github.com/Mahmudul65/jwt-todo-app.git
 cd todo-app
 ```
 
