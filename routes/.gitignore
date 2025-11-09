@@ -11,7 +11,7 @@ yarn-error.log*
 # Environment variables
 .env
 
-# JSON data (optional, যদি private রাখতে চাও)
+# JSON data 
 users.json
 todos.json
 
