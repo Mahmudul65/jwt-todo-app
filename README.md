@@ -52,7 +52,10 @@ Users can **signup, login, manage their own todos**, and **logout**. All operati
 
 ```bash
 git clone https://github.com/Mahmudul65/jwt-todo-app.git
-cd todo-app
+
+cd jwt-todo-app
+
+
 ```
 
 2. Install dependencies:
